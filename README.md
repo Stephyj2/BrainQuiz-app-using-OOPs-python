@@ -30,7 +30,7 @@ Quiz-Game/
 python main.py
 ```
 
-## Future Improvements
+## Significant Features
 
 -   Randomize questions
 -   GUI version
